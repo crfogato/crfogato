@@ -10,6 +10,7 @@ Me chamo Claudio e estou em evolução no universo da programação! Comecei min
 ### 🤖 Linguagens e Tecnologias
 
 <p>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" alt="JavaScript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
