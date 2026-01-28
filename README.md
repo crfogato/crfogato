@@ -2,7 +2,22 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Claudio e estou em evolução no universo da programação! Comecei minha trajetória com as bases da web em HTML, CSS e JavaScript, e me aprofundei em controle de versão com Git. No desenvolvimento back-end, minhas habilidades incluem Node.js, MySQL, PostgreSQL, MongoDB. Agora, meu foco é dominar ReactJS e React Native para criar interfaces de usuário modernas e aplicativos móveis de alta performance.
+Desenvolvedor Full-Stack | Transformando ideias em sistemas de alta performance
+
+​Olá! Sou desenvolvedor Full-Stack focado em criar soluções que não apenas funcionam, mas escalam. Meu objetivo é entregar sistemas seguros, rápidos e intuitivos, utilizando o que há de mais moderno na tecnologia para garantir que seu projeto se destaque no mercado.
+
+​Como posso ajudar o seu projeto:
+​Front-end Moderno: Interfaces rápidas e responsivas com React, Next.js e Tailwind CSS (foco em experiência do usuário e performance).
+
+​Back-end Robusto: APIs escaláveis com Node.js e Express, garantindo que seu sistema suporte o crescimento do seu negócio.
+
+​Banco de Dados e Infra: Modelagem inteligente com MySQL, PostgreSQL e MongoDB, utilizando Prisma ORM para garantir integridade e agilidade nos dados.
+
+​Qualidade e Transparência: Código limpo, versionado via Git/GitHub, com entregas constantes e comunicação clara.
+
+​Mais do que apenas escrever código, busco entender a fundo a necessidade do seu negócio para entregar uma ferramenta que realmente gere resultados.
+
+​Vamos tirar sua ideia do papel? Mande uma mensagem e vamos conversar sobre seu projeto!
 
  
 ---
